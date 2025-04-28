@@ -33,9 +33,6 @@ I am a **Power BI Developer** with over 3.5 years of experience transforming dat
 
 ### 🌟 Featured Projects
 
-- **Uber Trip Analysis**: Gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
-- **RBC Customer Churn Analysis**: Analyse the data and bring out few insights on the customer Churn
-- **Loan Default Analysis**: This report provides loan default overview.
 
 <p align="center">
   <img src="https://github.com/Sanjeev4318/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/UberTripAnalysis_SC.png" width="400">
